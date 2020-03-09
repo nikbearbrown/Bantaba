@@ -43,9 +43,33 @@ Currently the following projects are available:
 *  Hands on python  
 *  Hands on Javascript  
 *  Hands on python for web development  
-
-
 *  Hands on Algorithms in python
+*  Recommender systems
+*  R for python developers  
+*  Hands on Github    
+*  Hands on Linux  
+*  Hands on CCNA  
+*  Hands on Google Cloud
+*  Hands on AWS  
+*  Hands on TensorFlow  
+*  Hands on Pytorch  
+*  Hands on Bayesian Probability  
+*  Hands on Unreal Engine
+*  Hands on Unity Game Programming  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
