@@ -32,6 +32,7 @@ Currently the following projects are available:
 *  Computational Skepticism (Limited to those in CSYE 7375 - Special Topics in Artificial Intelligence Engineering, Computational Skepticism)  
 *  Game Artificial Intelligence  
 *  Game Analytics  
+*  Game Jobs Database 
 *  Game Algorithms  
 *  Hands on C++ for Games  
 *  Deep Learning for Games  
