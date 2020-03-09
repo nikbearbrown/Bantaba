@@ -26,7 +26,8 @@ Currently the following projects are available:
 *  Data Visualization  
 *  Hands on mySQL  
 *  Hands on MongoDB  
-*  Hands on ApacheSpark  
+*  Hands on ApacheSpark 
+*  Deep Learning for Brainmapping  
 *  Causal Inference  
 *  Algorithmic and Crowd Sourced Online Learning (the Bantaba project)  
 *  Computational Skepticism (Limited to those in CSYE 7375 - Special Topics in Artificial Intelligence Engineering, Computational Skepticism)  
