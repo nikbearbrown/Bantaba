@@ -2,15 +2,14 @@
 
 "Bantaba" is derived from the word for a large tree, which is called Bentennie in the Mandinka language representing a place of community, and learning.
 
-NEU AI Skunkworks is pleased to announce the Bantaba Projects where small groups of students will work as a group to write a grant, a book, a scientific paper and contribute code to an open source project.
-
-Until any project is funded through grants this is volunteer work to be released under Creative Commons Attribution and MIT Open Source license.  Authorship and acknowledgement will follow standard guidelines. (See https://research.fas.harvard.edu/links/guidelines-authorship-and-acknowledgement)_
-
-For a project to be initiated there must be two more advanced students that act as editors and project managers and one or more other students of any experience level willing to contribute.
+NEU AI Skunkworks is pleased to announce the Bantaba Projects where small groups of students will work as a group to write a grant, a book, a scientific paper and contribute code to an open-source project.
+ 
+Until any project is funded through grants, this is volunteer work. The work will be released under Creative Commons Attribution and MIT Open Source license.  Authorship and acknowledgment will follow standard guidelines. (See https://research.fas.harvard.edu/links/guidelines-authorship-and-acknowledgement)_
+ 
+For a project to be initiated, there must be two more advanced students that act as editors and project managers and one or more other students of any experience level willing to contribute.
 
 Currently the following projects are available:
 
-  
 *  Kchip (Closed) – Massively parallel screening of synthetic microbial communities. [Collaboration with the Broad Institute]  
 *  Raman Spectroscopy Analysis (Closed) [Collaboration with UCSD]  
 *  Reinforcement Learning (Closed) [Collaboration with Husky Systers Code]  
