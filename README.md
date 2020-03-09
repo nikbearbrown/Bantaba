@@ -36,12 +36,15 @@ Currently the following projects are available:
 *  Hands on C++ for Games  
 *  Deep Learning for Games  
 *  Reinforcement Learning for Games  
+*  Data Debias Pipeline (AutoDebias) [Collaboration with Kinesso and Squark] 
 *  Machine Learning Pipeline (AutoML) [Collaboration with Kinesso and Squark]  
 *  Reinforcement Learning Pipeline (AutoRL) [Collaboration with Kinesso and Squark]  
 *  Feature Engineering Pipeline (AutoFE) [Collaboration with Kinesso and Squark]  
 *  Hands on python  
 *  Hands on Javascript  
 *  Hands on python for web development  
+
+
 *  Hands on Algorithms in python
 
 
