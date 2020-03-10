@@ -18,7 +18,7 @@ Currently the following projects are available:
 *  Computational Creativity  
 *  Model Interpretability  
 *  Object Recognition Data Creation Tool  
-*  Introduction to Machine Learning (I2ML)  https://compstat-lmu.github.io/lecture_i2ml/  - [Collaboration with LMU Munich]  
+*  Introduction to Statistical Learning (I2SL)   - [Collaboration with LMU Munich I2ML Project] [https://compstat-lmu.github.io/lecture_i2ml/](https://compstat-lmu.github.io/lecture_i2ml/)   
 *  Social Butterfly  
 *  Capsule Networks  
 *  Hyperparameter Database  
